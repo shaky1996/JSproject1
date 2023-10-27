@@ -1,0 +1,20 @@
+{
+  "name": "permier-league",
+  "version": "1.0.0",
+  "description": "Premier League Project Portfolio",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel --open",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "Vincy Xue, Natski Nakano, Shak Yuldashev",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "bootstrap": "^5.2.3"
+  }
+}
